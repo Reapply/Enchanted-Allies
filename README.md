@@ -23,10 +23,8 @@ EnchantedAllies is a Bukkit plugin designed to enhance the multiplayer experienc
 
 EnchantedAllies uses the following APIs:
 
-- **Bukkit/Spigot API**: For the core Minecraft server functionality.
 - **Lamp Command Framework**: To handle complex command structures with ease.
 - **Kyori Adventure**: For rich text formatting and interactive components.
-- **JavaPlugin**: The base class for Bukkit plugins.
 
 ## Installation
 
