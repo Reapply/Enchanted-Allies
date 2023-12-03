@@ -1,0 +1,11 @@
+name: EncahntedAlies
+version: '1.0-Dev'
+#C:\Users\zacha\IdeaProjects\EncahntedAlies\src\main\java\me\banker\encahntedalies\EnchantedAllies.kt
+main: me.banker.enchantedallies.EnchantedAllies
+api-version: '1.20'
+
+commands:
+  friend:
+    description: friend command
+    usage: /<command> <player>
+    aliases: [f]

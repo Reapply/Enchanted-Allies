@@ -1,0 +1,12 @@
+name: EncahntedAlies
+version: '${project.version}'
+#C:\Users\zacha\IdeaProjects\EncahntedAlies\src\main\java\me\banker\encahntedalies\EnchantedAllies.kt
+main: me.banker.enchantedallies.EnchantedAllies
+api-version: '1.20'
+description: Enchanted Allies is a plugin that allows you to add friends in game.
+
+commands:
+  friend:
+    description: friend command
+    usage: /<command> <player>
+    aliases: [f]
